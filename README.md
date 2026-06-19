@@ -5,7 +5,7 @@
 <h1 align="center">scritty</h1>
 
 <p align="center">
-  <strong>One terminal that gives Claude, Codex, Copilot, and Gemini one shared, searchable memory.</strong>
+  <strong>One terminal that gives Claude, Codex, Copilot, and Antigravity one shared, searchable memory.</strong>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-scritty is a terminal emulator you run your AI CLIs inside (Claude Code, OpenAI Codex CLI, GitHub Copilot CLI, Gemini CLI, Aider, Ollama). It detects which agent is running, captures every exchange, tags it with the provider, and indexes it into one local, searchable memory you control. Then it serves that memory back to your agents over MCP and to you over the CLI.
+scritty is a terminal emulator you run your AI CLIs inside (Claude Code, OpenAI Codex CLI, GitHub Copilot CLI, Antigravity CLI, Aider, Ollama). It detects which agent is running, captures every exchange, tags it with the provider, and indexes it into one local, searchable memory you control. Then it serves that memory back to your agents over MCP and to you over the CLI.
 
 Your captures stay on your machine. No copy-paste, no per-vendor silos. One agent gives you a searchable memory of your own work; every agent you add shares the same corpus.
 
