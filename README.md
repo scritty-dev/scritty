@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://scritty.dev">scritty.dev</a> &nbsp;&middot;&nbsp;
-  <a href="https://scritty.dev/#demo">5-min demo</a> &nbsp;&middot;&nbsp;
+  <a href="https://scritty.dev/#demo">3-min demo</a> &nbsp;&middot;&nbsp;
   <a href="https://scritty.dev/#pricing">Pricing</a>
 </p>
 
